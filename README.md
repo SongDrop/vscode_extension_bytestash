@@ -5,8 +5,8 @@ This extension allows you to upload snippets to ByteStash directly from VS Code.
 Run:
 
 ```
-chmod +x ./vscode_install.sh
-./vscode_install.sh
+chmod +x ./vscode_extension_bytestash_upload
+./vscode_extension_bytestash_upload
 ```
 
 It will automatically install as a vscode extension.
